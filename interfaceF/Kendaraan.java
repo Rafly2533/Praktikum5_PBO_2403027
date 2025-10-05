@@ -1,5 +1,6 @@
 package interfaceF;
 
-public class Kendaraan {
-    
+public interface Kendaraan {
+    void berjalan();
+    void berhenti();
 }
